@@ -456,8 +456,8 @@ ul{
     padding-right: 10px;
     
     .gamepass-pic{
-        background-color: #ffb900;
-        background-image: url(image/gamepass.avif);
+        
+        background-image: url(image/Gamepass.avif);
         background-repeat: no-repeat;
         background-size: cover;
         width:100%;
